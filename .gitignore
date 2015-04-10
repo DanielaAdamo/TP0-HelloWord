@@ -1,28 +1,12 @@
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+/*TP0-HelloWord
+ *DA
+ *20150409
+ */
 
-# Precompiled Headers
-*.gch
-*.pch
+#include "stdafx.h"
+#include <iostream>
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+int _tmain(int argc, _TCHAR* argv[])
+{
+	std::cout << "Hello Word!";
+}
