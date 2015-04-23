@@ -1,0 +1,12 @@
+/*TP0-HelloWord
+ *DA
+ *20150409
+ */
+
+#include "stdafx.h"
+#include <iostream>
+
+int _tmain()
+{
+	std::cout << "Hello Word!";
+}
