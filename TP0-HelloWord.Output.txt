@@ -1,0 +1,2 @@
+C:\Users\adamod\Documents\Visual Studio 2010\Projects\TP0-HelloWord\Debug>TP0-HelloWord.exe
+Hello Word!
